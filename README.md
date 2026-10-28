@@ -59,4 +59,4 @@ Start the frontend application by running the following command:
 `npm start`
 
 Now, Webapp will be access on port 3000.
-Last updated: 2026-10-27 23:40 UTC
+Last updated: 2026-10-28 04:52 UTC
